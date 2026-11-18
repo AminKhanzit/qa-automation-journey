@@ -97,13 +97,13 @@ All practice exercises and assignments are maintained in `lesson-05.js`.
 - [x] Practice `break` statement
 - [x] Practice `continue` statement
 - [x] Understand infinite loops
-- [ ] Complete and run the corrected Task 01 logic
+- [x] Complete and run the corrected Task 01 logic
 - [x] Complete Task 02
 - [x] Complete Task 03
 - [x] Complete Task 04
 - [x] Complete Task 05
 - [x] Complete knowledge check
-- [ ] Commit and push to GitHub
+- [x] Commit and push to GitHub
 
 ## Next Lesson
 
